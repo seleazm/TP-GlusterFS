@@ -26,8 +26,7 @@ Arquitectura Cliente-Servidor:
 
 Flexibilidad en volúmenes:
   * volumen distribuido: Maximiza la capacidad de almacenamiento disponible, no ofrece redundancia.
-  * volumen replicados: Proporciona alta disponibilidad. Si un nodo falla, los datos siguen dispo-
-                        niblesen los demás nodos.
+  * volumen replicados: Proporciona alta disponibilidad. Si un nodo falla, los datos siguen disponible en los demás nodos.
   * volumen disperso: Diivide la información en fragmentos, añade bloques de paridad para recuperar
                       datos. 
 

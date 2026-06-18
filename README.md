@@ -77,7 +77,7 @@ Flexibilidad en volúmenes:
     
 
 
-#  Se configura la conectividad entre nodos
+  Se configura la conectividad entre nodos
 
    <img width="594" height="112" alt="image" src="https://github.com/user-attachments/assets/c584a123-f0f1-4c29-8bc9-7b8db19e361a" />
 
@@ -86,14 +86,14 @@ Flexibilidad en volúmenes:
 
 
 
- # Añadir el peer desde el nodo maestro
+  Añadir el peer desde el nodo maestro
 
    <img width="515" height="97" alt="image" src="https://github.com/user-attachments/assets/b0257e80-f344-4d55-8410-70a5d3171119" />
 
 
 
 
- #  Verificar el estado del Clúster
+   Verificar el estado del Clúster
 
 <img width="484" height="215" alt="image" src="https://github.com/user-attachments/assets/0ce9777c-e2d4-442e-b5f4-c1a8246e97c8" />
 
@@ -101,7 +101,7 @@ Flexibilidad en volúmenes:
 
 
   
- #  Crear directorio brick
+   Crear directorio brick
 
    <img width="511" height="70" alt="image" src="https://github.com/user-attachments/assets/6beba92b-e93e-48f1-8733-85fe970ef708" />
 
@@ -109,7 +109,7 @@ Flexibilidad en volúmenes:
 
 
  
- #  Crear un volumen replicado 
+   Crear un volumen replicado 
 
    <img width="650" height="100" alt="image" src="https://github.com/user-attachments/assets/04cf77c8-08ad-4601-97e4-e79d48c8d64e" />
 
@@ -117,7 +117,7 @@ Flexibilidad en volúmenes:
 
 
 
-  #  Iniciar el volumen 
+    Iniciar el volumen 
 
 
 <img width="528" height="65" alt="image" src="https://github.com/user-attachments/assets/e0171ec2-e6c5-4a10-8b5e-5a3fda941946" />
@@ -126,7 +126,7 @@ Flexibilidad en volúmenes:
 
 
 
- #   Verificación del volumen 
+    Verificación del volumen 
 
    
    <img width="522" height="363" alt="image" src="https://github.com/user-attachments/assets/0230f9ae-8a46-4e39-9ca4-f006efac0d58" />
@@ -136,7 +136,7 @@ Flexibilidad en volúmenes:
 
 
  
- #    Montar el volumen cliente
+     Montar el volumen cliente
 
    
 
@@ -148,7 +148,7 @@ Flexibilidad en volúmenes:
 
 
     
-  #   Comprobación de que el montaje se creo 
+     Comprobación de que el montaje se creo 
 
 
     
@@ -171,7 +171,7 @@ Flexibilidad en volúmenes:
    
 
  
-  #   Verificación del estado del nodo 3 desde el nodo 1
+     Verificación del estado del nodo 3 desde el nodo 1
 
 
    
@@ -195,7 +195,7 @@ Flexibilidad en volúmenes:
 
 
      
-  #   Verificación de reintegración del nodo3 
+     Verificación de reintegración del nodo3 
 
       Se realiza desde el nodo 1 
 
@@ -205,7 +205,7 @@ Flexibilidad en volúmenes:
 
 
     
-  #   Verificación auto-heal 
+     Verificación auto-heal 
 
        Consulta el estado del nodo
 
